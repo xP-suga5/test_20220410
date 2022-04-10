@@ -1,0 +1,9 @@
+①クエリビルダ
+②Eloquent
+③model
+④Create
+⑤Read
+⑥Update
+⑦.env
+⑧マイグレーション
+⑨シーディング
